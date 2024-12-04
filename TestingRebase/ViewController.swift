@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         //This is test2 from main
         //This is test3 from main
         //This is test1 from featBranc
+        //This is test2 from featBranc
     }
 }
 
