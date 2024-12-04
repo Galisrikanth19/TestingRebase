@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     private func sampleFunc() {
         //This is test1 from main
+        //This is test2 from main
     }
 }
 
