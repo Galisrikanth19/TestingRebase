@@ -16,6 +16,7 @@
 		111ED33D2D00760800F8E22A /* mainfile1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111ED33C2D00760800F8E22A /* mainfile1.swift */; };
 		111ED33F2D00762900F8E22A /* mainfile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111ED33E2D00762900F8E22A /* mainfile2.swift */; };
 		111ED3452D0076C000F8E22A /* mainfile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111ED3442D0076C000F8E22A /* mainfile3.swift */; };
+		111ED3472D0076D100F8E22A /* mainfile4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111ED3462D0076D100F8E22A /* mainfile4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		111ED33C2D00760800F8E22A /* mainfile1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainfile1.swift; sourceTree = "<group>"; };
 		111ED33E2D00762900F8E22A /* mainfile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainfile2.swift; sourceTree = "<group>"; };
 		111ED3442D0076C000F8E22A /* mainfile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainfile3.swift; sourceTree = "<group>"; };
+		111ED3462D0076D100F8E22A /* mainfile4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainfile4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				111ED33C2D00760800F8E22A /* mainfile1.swift */,
 				111ED33E2D00762900F8E22A /* mainfile2.swift */,
 				111ED3442D0076C000F8E22A /* mainfile3.swift */,
+				111ED3462D0076D100F8E22A /* mainfile4.swift */,
 			);
 			path = Testiogroup;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				111ED3452D0076C000F8E22A /* mainfile3.swift in Sources */,
 				111ED33D2D00760800F8E22A /* mainfile1.swift in Sources */,
+				111ED3472D0076D100F8E22A /* mainfile4.swift in Sources */,
 				111ED32C2D006F5A00F8E22A /* ViewController.swift in Sources */,
 				111ED33F2D00762900F8E22A /* mainfile2.swift in Sources */,
 				111ED3282D006F5A00F8E22A /* AppDelegate.swift in Sources */,
